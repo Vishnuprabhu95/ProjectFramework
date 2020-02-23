@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AutoFramework>
+  <RunSettings>
+    
+    <AUT>https://www.amazon.in/</AUT>
+    <!-- Possible flag Chrome, Firefox, IE -->
+    <Browser>Chrome</Browser>
+    <!-- Possible flag Smoke, Regression, Recent-Regression -->
+    <TestType>SmokeTest</TestType>
+    <!-- Possible flag Y,N -->
+    <IsLog>N</IsLog>
+    <LogPath>C:\\Users\\VISHNU\\Documents\\Report</LogPath>
+    <BuildName>DemoBuild</BuildName>
+    <!-- Possible flag Y,N -->
+    <IsReport>Y</IsReport>
+    <UserName>AutoTeam</UserName>
+    <!-- Possible flag Selenium, Specflow -->
+    <Technology>Selenium</Technology>
+    
+  </RunSettings>
+</AutoFramework>
